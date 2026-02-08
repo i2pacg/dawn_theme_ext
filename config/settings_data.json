@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Waad.svg",
+    "logo": "shopify://shop_images/Waad.svg",
     "logo_width": 100,
-    "favicon": "shopify:\/\/shop_images\/logo-shadow-box.png",
+    "favicon": "shopify://shop_images/logo-shadow-box.png",
     "type_header_font": "open_sans_n3",
     "heading_scale": 100,
     "type_body_font": "open_sans_n4",
@@ -37,7 +46,7 @@
     "card_style": "card",
     "card_image_padding": 0,
     "card_text_alignment": "left",
-    "card_color_scheme": "background-2",
+    "card_color_scheme": "background-1",
     "card_border_thickness": 0,
     "card_border_opacity": 10,
     "card_corner_radius": 0,
@@ -99,13 +108,13 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
-    "brand_image": "shopify:\/\/shop_images\/Waad.png",
+    "brand_description": "<p></p>",
+    "brand_image": "shopify://shop_images/Waad.png",
     "brand_image_width": 240,
     "social_facebook_link": "",
-    "social_instagram_link": "https:\/\/instagram.com\/nailsbywaad",
+    "social_instagram_link": "https://instagram.com/nailsbywaad",
     "social_youtube_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@nailsbywaad",
+    "social_tiktok_link": "https://www.tiktok.com/@nailsbywaad",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -119,7 +128,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Waad.svg",
+    "checkout_logo_image": "shopify://shop_images/Waad.svg",
     "checkout_logo_position": "center",
     "sections": {
       "main-password-header": {
@@ -138,24 +147,20 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "15132424025755801183": {
-        "type": "shopify:\/\/apps\/upload-lift-image-upload\/blocks\/app-embed\/3c98bdcb-7587-4ade-bfe4-7d8af00d05ca",
+        "type": "shopify://apps/upload-lift-image-upload/blocks/app-embed/3c98bdcb-7587-4ade-bfe4-7d8af00d05ca",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10583289249535060075": {
-        "type": "shopify:\/\/apps\/wishlist\/blocks\/popup\/1611f065-e251-4250-8609-2fa2f1877c57",
+        "type": "shopify://apps/wishlist/blocks/popup/1611f065-e251-4250-8609-2fa2f1877c57",
         "disabled": false,
         "settings": {
           "icon_width": 24,
@@ -186,26 +191,24 @@
         }
       },
       "15659862187755629035": {
-        "type": "shopify:\/\/apps\/bookeasy\/blocks\/app-embed\/865cd10f-9515-4d8b-8e41-efece9c83f71",
+        "type": "shopify://apps/bookeasy/blocks/app-embed/865cd10f-9515-4d8b-8e41-efece9c83f71",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "776302416715791028": {
-        "type": "shopify:\/\/apps\/bucks-currency-converter-pro\/blocks\/app-embed\/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
+        "type": "shopify://apps/bucks-currency-converter-pro/blocks/app-embed/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#202a36",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
       }
@@ -468,7 +471,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
