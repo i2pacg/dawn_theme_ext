@@ -52,6 +52,7 @@
       "settings": {
         "full_width": true,
         "video": "shopify://files/videos/video_2023-10-09_02-14-01.mp4",
+        "video_1": "shopify://files/videos/video 3.mp4",
         "image_overlay_opacity": 80,
         "image_height": "large",
         "desktop_content_position": "middle-center",
