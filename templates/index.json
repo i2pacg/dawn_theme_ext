@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "f65567e7-9bef-4025-933a-a4042baf765d": {
@@ -6,7 +15,7 @@
         "template--20816435773737__f65567e7-9bef-4025-933a-a4042baf765d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "where <strong>nails <\/strong>become an object of <strong>art<\/strong>",
+            "heading": "where <strong>nails </strong>become an object of <strong>art</strong>",
             "heading_size": "h1"
           }
         },
@@ -23,11 +32,11 @@
           "settings": {
             "button_content_1": "Unlock a Universe of Designs with the Click of a Button!",
             "button_label_1": "Check it",
-            "button_link_1": "https:\/\/nailsbywaad.com#intro",
+            "button_link_1": "https://nailsbywaad.com#intro",
             "button_style_secondary_1": true,
             "button_content_2": "",
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/products\/custom-nail-set",
+            "button_link_2": "shopify://products/custom-nail-set",
             "button_style_secondary_2": false
           }
         }
@@ -42,7 +51,7 @@
       ],
       "settings": {
         "full_width": true,
-        "video": "shopify:\/\/files\/videos\/video_2023-10-09_02-14-01.mp4",
+        "video": "shopify://files/videos/video_2023-10-09_02-14-01.mp4",
         "image_overlay_opacity": 80,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -62,14 +71,14 @@
         "template--20816435773737__bf76a4a7-b1a6-4468-a6d0-8cc4b558ce00-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Hey lovely !<\/strong><\/em>",
+            "heading": "<em><strong>Hey lovely !</strong></em>",
             "heading_size": "h2"
           }
         },
         "template--20816435773737__bf76a4a7-b1a6-4468-a6d0-8cc4b558ce00-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>I'm Waad , a nail stylist & artist. I specialize in handmade luxury press on nails. With easy to apply press on nails, you can enjoy an at-home professional manicure , just as your saloon result’s . Wear your sets for up to 2 weeks with our application kit or just be a \"slay for a Day\"<\/em><\/p>"
+            "text": "<p><em>I'm Waad , a nail stylist & artist. I specialize in handmade luxury press on nails. With easy to apply press on nails, you can enjoy an at-home professional manicure , just as your saloon result’s . Wear your sets for up to 2 weeks with our application kit or just be a \"slay for a Day\"</em></p>"
           }
         }
       },
@@ -99,9 +108,9 @@
       "settings": {
         "full_width": false,
         "header_top": "",
-        "title": "<h1>Latest additions<\/h1>",
+        "title": "<h1>Latest additions</h1>",
         "heading_size": "h1",
-        "description": "<p>Experience the latest nailset designs that will make your nails stand out. <\/p>",
+        "description": "<p>Experience the latest nailset designs that will make your nails stand out. </p>",
         "show_description": false,
         "description_style": "body",
         "collection": "new-arrivals",
@@ -137,7 +146,7 @@
         "template--20816435773737__e3998602-c96f-4108-9d3e-061df2345b9a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Express yourself with our custom nailsets, designed just for you.<\/p>",
+            "text": "<p>Express yourself with our custom nailsets, designed just for you.</p>",
             "text_style": "body"
           }
         },
@@ -145,7 +154,7 @@
           "type": "button",
           "settings": {
             "button_label": "GET IT",
-            "button_link": "shopify:\/\/products\/custom-nail-set",
+            "button_link": "shopify://products/custom-nail-set",
             "button_style_secondary": true
           }
         }
@@ -156,7 +165,7 @@
         "template--20816435773737__e3998602-c96f-4108-9d3e-061df2345b9a-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/photo_2023-10-05_12-09-35.jpg",
+        "image": "shopify://shop_images/photo_2023-10-05_12-09-35.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -190,10 +199,10 @@
         "template--20816435773737__16909af5-af37-4113-8be5-27bfc3d6d950-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nail_artist_mak_0.png",
+            "image": "shopify://shop_images/nail_artist_mak_0.png",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "<em><strong>This is your one-stop shop for everything related to press on nails, and we strive to be the best in the business. To us, being the best means offering a wide variety of high-quality saloon press on nail sets at an affordable price alongside other products that are essential for application, removal, and general care.<\/strong><\/em>",
+            "subheading": "<em><strong>This is your one-stop shop for everything related to press on nails, and we strive to be the best in the business. To us, being the best means offering a wide variety of high-quality saloon press on nail sets at an affordable price alongside other products that are essential for application, removal, and general care.</strong></em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -226,14 +235,14 @@
         "template--20816435773737__390e1d99-e0a4-49bd-b94f-2bfbf180e336-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Your nail box <\/strong>",
+            "heading": "<strong>Your nail box </strong>",
             "heading_size": "h2"
           }
         },
         "template--20816435773737__390e1d99-e0a4-49bd-b94f-2bfbf180e336-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Made with salon gel products for a long lasting & durable finish, your nails arrive beautifully packaged in their own storage box. So they can be stored and reused for as many as you want . You can also purchase extra tools  to prep & apply your nails.<\/em><\/p>",
+            "text": "<p><em>Made with salon gel products for a long lasting & durable finish, your nails arrive beautifully packaged in their own storage box. So they can be stored and reused for as many as you want . You can also purchase extra tools  to prep & apply your nails.</em></p>",
             "text_style": "body"
           }
         }
@@ -246,7 +255,7 @@
         "html > div {overflow-x: hidden;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/small_cute_pink_1.png",
+        "image": "shopify://shop_images/IMG_5880.png",
         "height": "medium",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -264,10 +273,20 @@
       "type": "apps",
       "blocks": {
         "2e5e73c7-a76b-4efc-8a66-133ccf6ffabe": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 30,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
